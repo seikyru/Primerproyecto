@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primer proyecto</string>
+    <string name="main_Ingresar">enter name</string>
+    <string name="txtcontraseña">password</string>
+    <string name="txtboton">access</string>
+</resources>
